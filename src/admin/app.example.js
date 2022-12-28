@@ -2,6 +2,8 @@ export default {
   config: {
     auth: {
       logo:'',
+      title:'Villazzo',
+      name:'Villazzo'
     },
     menu:{
       logo: ''
